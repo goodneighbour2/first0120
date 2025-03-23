@@ -1,0 +1,32 @@
+{
+
+  "pages": [
+    "mypages/index/index",
+    "mypages/list/list"
+  ],
+
+  "window": {
+    "navigationBarBackgroundColor": "#096000",
+    "navigationBarTitleText": "法律法规",
+    "navigationBarTextStyle":"white",
+    "backgroundColor": "#096000",
+    "enablePullDownRefresh": true
+  },
+
+  "tabBar": {
+    "color": "#000000",
+    "list": [
+      {
+        "pagePath": "mypages/index/index",
+        "text" : "首页",
+        "iconPath": "mypages/images/home.png",
+        "selectedIconPath": "mypages/images/homeactive.png"
+      },
+      {"pagePath": "mypages/list/list",
+      "text": "关于",
+      "iconPath": "mypages/images/about.png",
+      "selectedIconPath": "mypages/images/aboutcative.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+<view bindtap="countClick">我是index页面，你ninini点击了{{ count }}次</view >
+
+<text id = "民民" style="font-size: 30px; margin: 2ex;" >民法典</text>
+<navigator url=  "mypages/list/list"  open-type="navigate">
+  民法典点
+</navigator>
+
+<web-view src="https://goodneighbour2.github.io/lawtool/#/"></web-view>
+
+<view>
+  <button bindtap="handleTap">民法典按钮！</button>
+</view>
