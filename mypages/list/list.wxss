@@ -1,1 +1,36 @@
 /* mypages/list/list.wxss */
+/* 
+.shuoming {
+    text-align: left ;
+    margin: 3px;
+    padding-left: 5px;
+} */
+
+.sm {
+    display: block;
+    text-indent: 10em;
+    color: rgb(7, 97, 22);
+    margin-bottom: 20px;
+    background-color: rgba(238, 82, 134, 0.74);
+    font-size: 22px;
+    width: 90%;
+    margin: 0 auto;
+    white-space: normal;
+}
+
+.container {
+    text-align: center;
+    line-height: 3ex;
+    color: black;
+}
+
+.container2 {
+    text-align: left;
+    line-height: 1ex;
+    color: rgb(170, 158, 158);
+}
+
+.jinqi {
+    color: gray;
+    font-size: 7px;
+}
