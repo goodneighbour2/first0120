@@ -26,6 +26,7 @@
 
 .container2 {
     text-align: left;
+    margin-left: 15px;
     line-height: 1ex;
     color: rgb(170, 158, 158);
 }
